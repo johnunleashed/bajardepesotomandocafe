@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: none;
-  min-height: 1313px;
+  min-height: 1354px;
 }
 
 .u-section-1 .u-shape-1 {
@@ -84,12 +84,6 @@
   margin: 27px 9px 0;
 }
 
-.u-section-1 .u-btn-1 {
-  background-image: none;
-  font-size: 1.25rem;
-  padding: 0;
-}
-
 .u-section-1 .u-list-item-2 {
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
 }
@@ -111,22 +105,12 @@
   margin: 20px 16px 0 0;
 }
 
-.u-section-1 .u-btn-2 {
-  background-image: none;
-  padding: 0;
-}
-
 .u-section-1 .u-text-7 {
   letter-spacing: 1px;
   background-image: none;
   font-weight: 700;
   font-size: 1.25rem;
   margin: 27px 9px 0;
-}
-
-.u-section-1 .u-btn-3 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-1 .u-list-item-3 {
@@ -150,22 +134,12 @@
   margin: 20px 16px 0 0;
 }
 
-.u-section-1 .u-btn-4 {
-  background-image: none;
-  padding: 0;
-}
-
 .u-section-1 .u-text-9 {
   letter-spacing: 1px;
   background-image: none;
   font-weight: 700;
   font-size: 1.25rem;
   margin: 27px 9px 0;
-}
-
-.u-section-1 .u-btn-5 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-1 .u-list-item-4 {
@@ -189,22 +163,12 @@
   margin: 20px 16px 0 0;
 }
 
-.u-section-1 .u-btn-6 {
-  background-image: none;
-  padding: 0;
-}
-
 .u-section-1 .u-text-11 {
   letter-spacing: 1px;
   background-image: none;
   font-weight: 700;
   font-size: 1.25rem;
   margin: 27px 9px 0;
-}
-
-.u-section-1 .u-btn-7 {
-  margin-right: 0;
-  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -435,22 +399,18 @@
     margin-top: 436px;
     margin-left: calc(((100% - 340px) / 2));
   }
-
-  .u-section-1 .u-btn-1 {
-    font-size: 1.875rem;
-  }
 } .u-section-2 {
   background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 537px;
+  min-height: 809px;
 }
 
 .u-section-2 .u-video-1 {
   height: 360px;
   width: 640px;
-  margin: 242px auto 0;
+  margin: 157px auto 0;
 }
 
 .u-section-2 .u-text-1 {
@@ -478,6 +438,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 537px;
+  }
+
   .u-section-2 .u-video-1 {
     height: 304px;
     width: 540px;
@@ -544,6 +508,12 @@
 
   .u-section-4 .u-btn-1 {
     margin-top: 102px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-video-1 {
+    margin-top: 20px;
   }
 }
 
