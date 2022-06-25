@@ -37745,35 +37745,48 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 284px;
+  min-height: 456px;
 }
 
 .u-footer .u-image-1 {
-  width: 611px;
-  height: 227px;
-  margin: 71px auto 0;
-}
-
-.u-footer .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  width: 570px;
+  height: 212px;
+  margin: 40px auto 0;
 }
 
 .u-footer .u-text-1 {
   background-image: none;
-  font-size: 1.125rem;
+  font-size: 1.875rem;
   font-weight: 700;
   width: 533px;
-  margin: -6px auto 21px;
+  margin: 0 auto 60px;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-image-1 {
-    width: 611px;
+  .u-footer .u-text-1 {
+    width: 533px;
   }
 }
 
+@media (max-width: 767px) {
+  .u-footer .u-sheet-1 {
+    min-height: 445px;
+  }
 
+  .u-footer .u-image-1 {
+    width: 540px;
+    height: 201px;
+  }
+}
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-footer .u-image-1 {
+    width: 340px;
+    height: 127px;
+  }
+
   .u-footer .u-text-1 {
     width: 340px;
   }
