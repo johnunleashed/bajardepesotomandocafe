@@ -37749,8 +37749,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-image-1 {
-  width: 329px;
-  height: 143px;
+  width: 611px;
+  height: 227px;
   margin: 71px auto 0;
 }
 
@@ -37766,7 +37766,11 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 533px;
   margin: -6px auto 21px;
 }
-
+@media (max-width: 1199px) {
+  .u-footer .u-image-1 {
+    width: 611px;
+  }
+}
 
 
 @media (max-width: 575px) {

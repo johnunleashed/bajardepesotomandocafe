@@ -470,7 +470,6 @@
 
 .u-section-4 .u-group-1 {
   min-height: 917px;
-  height: auto;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -497,12 +496,6 @@
   width: 320px;
   height: 581px;
   margin: 47px auto 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-group-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {
